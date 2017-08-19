@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637602455031",
+    "firebase_url": "https://colour-dbb93.firebaseio.com",
+    "project_id": "colour-dbb93",
+    "storage_bucket": "colour-dbb93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637602455031:android:1b965e280f13f5cc",
+        "android_client_info": {
+          "package_name": "at.maliweb.colour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637602455031-673s1qm2gl8vctu9phh5d9vgopif4mb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.maliweb.colour",
+            "certificate_hash": "6a93d9360ac3a8e7fe4ffcbd180778d19ce7cadf"
+          }
+        },
+        {
+          "client_id": "637602455031-hhpr6an1oqesr9hpvh7ctks282qhibc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSb5Dfc5qTk6N6-TYPfzfXwKluf9QN6SA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637602455031-hhpr6an1oqesr9hpvh7ctks282qhibc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
