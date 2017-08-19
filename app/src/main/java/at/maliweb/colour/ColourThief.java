@@ -28,7 +28,7 @@ public class ColourThief {
     public static void getSDcardPath() {
         String sdpath,sd1path,usbdiskpath,sd0path;
 
-        if(new File("/storage/extSdCard/DCIM/Camera/bgd_skyblue.jpg").exists())
+        if(new File("/storage/extSdCard/DCIM/Camera/tatooed_hand.JPG").exists())
         {
             sdpath="/storage/extSdCard/";
             Log.i("Sd Cardext Path",sdpath);
