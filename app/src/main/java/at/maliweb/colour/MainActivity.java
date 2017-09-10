@@ -24,7 +24,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 Intent intent = new Intent(getApplicationContext(),ColoursetActivity.class);
-                int[] color = ColourThief.getColor("/DCIM/Camera", "tatooed_hand.JPG");
+                //int[] color = ColourThief.getColor("/DCIM/Camera", "tatooed_hand.JPG");
+                int[] color = {239, 134, 160};
 
                 //Log.i("Colour: ", color[0]+" "+color[1]+" "+color[2]);
                 intent.putExtra("room_name","Red" );

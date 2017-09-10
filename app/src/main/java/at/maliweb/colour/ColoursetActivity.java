@@ -36,6 +36,8 @@ public class ColoursetActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_colourset);
+        /*Toolbar myToolbar = (Toolbar) findViewById(R.id.my_toolbar);
+        setSupportActionBar(myToolbar);*/
 
         final View currentView = (View) findViewById(R.id.activity_setColor_screen);
         btn_send_msg = (Button) findViewById(R.id.btn_send);
